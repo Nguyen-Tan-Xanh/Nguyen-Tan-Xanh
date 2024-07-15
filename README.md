@@ -1,13 +1,17 @@
 # Hello, I'm Nguyen Tan Xanh 👋
 
 ## 💼 Skills & Expertise
-
-- **Programming Languages**: C#, .NET Core, C, C++
-- **Cloud Platforms**: Azure, AWS
-- **Containerization**: Docker, Kubernetes
-- **CI/CD**: Azure DevOps, GitHub Actions
-- **Databases**: SQL Server, Redis, Neo4j, PostgreSQL
-- **DevOps Tools**: Azure DevOps, Git, GitHub, Azure Pipelines
+- C# .NET, C, C++
+- HTML, CSS, JavaScript
+- Relational Database (SQL Server, MySQL, PostgresSQL)
+- Non Relational Database (Neo4j, Redis)
+- Tech Stack (Ocelot, Consul, JWT, CORS, Kafka, SignalR, Hangfire, etc)
+- Design Pattern (CQRS, Mediator, Repository, Unit Of Work, etc)
+- Docker
+- CI/CD (Github Action)
+- AWS
+- Tools (Git, SVN, Postman, Lark, etc)
+- English Communication
 
 ## 🔗 Connect with Me
 
