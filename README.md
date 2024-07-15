@@ -1,6 +1,6 @@
-# Hello, I'm Nguyen Tan Xanh 👋
+# Hello, I'm Nguyen Tan Xanh .NET Developer 👋
 
-## 💼 Skills & Expertise
+## 💼 Skills
 - C# .NET, C, C++
 - HTML, CSS, JavaScript
 - Relational Database (SQL Server, MySQL, PostgresSQL)
@@ -13,10 +13,10 @@
 - Tools (Git, SVN, Postman, Lark, etc)
 - English Communication
 
-## 🔗 Connect with Me
+## 🔗 Connect With Me
 
 - LinkedIn: [https://www.linkedin.com/in/xanhnt/](link)
 
-## 📈 GitHub Stats
+## 📈 Github Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nguyen-Tan-Xanh&show_icons=true&theme=dark)
