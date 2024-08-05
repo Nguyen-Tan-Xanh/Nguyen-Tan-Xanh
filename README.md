@@ -11,7 +11,6 @@
 - CI/CD (Github Action)
 - AWS
 - Tools (Git, SVN, Postman, Lark, etc)
-- English Communication
 
 ## 🔗 Connect With Me
 
